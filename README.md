@@ -102,7 +102,3 @@ await account.getTransactions({dateFrom: "2021-12-01", dateTo: "2022-01-30"});
 
 1. Run `npm run build`
 2. Publish library `npm publish`
-
-## Support
-
-For any inquiries please contact support at [bank-account-data-support@gocardless.com](bank-account-data-support@gocardless.com) or create an issue in repository.
